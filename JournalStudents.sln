@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalStudents", "JournalStudents\JournalStudents.csproj", "{5A14D60E-C105-472F-8CF2-AA159821E6BA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "JournalStudentsDB", "JournalStudentsDB\JournalStudentsDB.sqlproj", "{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A14D60E-C105-472F-8CF2-AA159821E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A14D60E-C105-472F-8CF2-AA159821E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A14D60E-C105-472F-8CF2-AA159821E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A14D60E-C105-472F-8CF2-AA159821E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D916C3E-B3C7-4601-AD36-9B98B9F1EAC4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
